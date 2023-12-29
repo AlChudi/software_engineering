@@ -1,4 +1,6 @@
 # software_engineering
+Practical lessons in software engineering number.
+
 >Данный репозиторий переводит текст на английском языке в речь при помощи готовой библиотеки ml, установить которую можно по ссылке:
 >https://huggingface.co/facebook/mms-tts-eng/tree/main
 
